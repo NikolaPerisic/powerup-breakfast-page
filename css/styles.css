@@ -1,0 +1,42 @@
+body {
+	background-color: #f5d9df;
+	font-family: "Nunito", sans-serif;
+}
+
+h2 {
+	color: #EA1C2C;
+}
+
+.container-fluid {
+	overflow: hidden;
+}
+
+#mainNavbar {
+	font-size: 1rem;
+}
+
+#mainNavbar .nav-link {
+	color: white;
+}
+
+#mainNavbar .nav-link:hover {
+	color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+	color: #EA1C2C;
+}
+
+.lead {
+	line-height: 2;
+}
+
+.content {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.nav-scrolling {
+	background: #D8BFD8;
+	transition: background 300ms;
+}
